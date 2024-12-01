@@ -9,8 +9,8 @@ This project allows users to view, add, edit, and delete recipes. Each team memb
 Description: Aashlesh will create the Recipe List page, where all the available recipes will be displayed.
 
 * Show a list of recipes with their names, a short description, and a thumbnail image.
-*Provide options to view the recipe details or delete it.
-*Add a search bar to filter recipes by name or category (e.g., desserts, appetizers).
+* Provide options to view the recipe details or delete it.
+* Add a search bar to filter recipes by name or category (e.g., desserts, appetizers).
 ### Thasrifha – Add Recipe Page
 Description: Thasrifha will focus on the Add Recipe page, where users can submit their own recipes.
 
