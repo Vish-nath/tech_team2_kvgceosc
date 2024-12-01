@@ -35,8 +35,8 @@ Description: Aashlesh will create the Delete Recipe confirmation functionality.
 * Implement a Delete button on the Recipe List page next to each recipe.
 * Add a confirmation dialog that asks, "Are you sure you want to delete this recipe?" before deleting the recipe.
 * Ensure that the recipe is removed from the list after confirmation.
-#### Recipe Detail Page
-Description: Aashlesh will work on the Recipe Detail page, which shows more information about a specific recipe when clicked from the list.
+#### Vishwanath - Recipe Detail Page
+Description: Vishwanath will work on the Recipe Detail page, which shows more information about a specific recipe when clicked from the list.
 *  Display full details of the recipe, including the name, ingredients, instructions, and image (if provided).
 * Add an Edit button that directs users to the Edit Recipe page.
 * Include a Back button to return to the Recipe List page.
