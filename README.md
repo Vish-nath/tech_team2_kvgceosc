@@ -4,14 +4,14 @@
 #### Project Overview:
 This project allows users to view, add, edit, and delete recipes. Each team member will be responsible for creating one page that corresponds to a particular feature of the application. The goal is to create a simple recipe management application.
 
-Assigning Pages (One Page per Person)
-Aashlesh – Home Page and Recipe List Page
+**Assigning Pages (One Page per Person)
+### Aashlesh – Home Page and Recipe List Page
 Description: Aashlesh will create the Recipe List page, where all the available recipes will be displayed.
 
 Show a list of recipes with their names, a short description, and a thumbnail image.
 Provide options to view the recipe details or delete it.
 Add a search bar to filter recipes by name or category (e.g., desserts, appetizers).
-Thasrifha – Add Recipe Page
+### Thasrifha – Add Recipe Page
 Description: Thasrifha will focus on the Add Recipe page, where users can submit their own recipes.
 
 Design a form to collect the following information:
@@ -21,13 +21,13 @@ Instructions
 Recipe Category (e.g., breakfast, lunch, dinner)
 Recipe Image (optional)
 Implement form validation to ensure all required fields are filled in.
-Bhoomika – Edit Recipe Page
+### Bhoomika – Edit Recipe Page
 Description: Bhoomika will work on the Edit Recipe page, allowing users to modify an existing recipe.
 
 Pre-fill the form with the current recipe details (name, ingredients, instructions).
 Allow the user to edit any part of the recipe.
 Include a Save button to update the recipe and a Cancel button to return to the Recipe List page.
-Aashlesh – Delete Recipe Confirmation and Recipe Detail Page
+### Aashlesh – Delete Recipe Confirmation and Recipe Detail Page
 
 Delete Recipe Confirmation
 Description: Aashlesh will create the Delete Recipe confirmation functionality.
