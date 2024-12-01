@@ -4,7 +4,7 @@
 #### Project Overview:
 This project allows users to view, add, edit, and delete recipes. Each team member will be responsible for creating one page that corresponds to a particular feature of the application. The goal is to create a simple recipe management application.
 
-**Assigning Pages (One Page per Person)
+* Assigning Pages (One Page per Person)
 ### Aashlesh – Home Page and Recipe List Page
 Description: Aashlesh will create the Recipe List page, where all the available recipes will be displayed.
 
